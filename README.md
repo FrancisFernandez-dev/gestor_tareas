@@ -42,3 +42,29 @@ Ver el detalle de cada tarea
 Eliminar tareas
 
 Tener acceso privado solo a sus propias tareas
+
+_____________________________________________________
+▶️ Instrucciones para Ejecutar el Proyecto
+1️⃣ Descargar el proyecto
+
+Clonar desde GitHub o descargar el ZIP.
+
+2️⃣ Crear el entorno virtual
+
+Crear un entorno virtual de Python dentro del proyecto.
+
+3️⃣ Activar el entorno virtual
+
+Activar el entorno virtual para trabajar con un entorno aislado.
+
+4️⃣ Instalar Django
+
+Instalar el framework Django dentro del entorno virtual.
+
+5️⃣ Aplicar migraciones
+
+Ejecutar las migraciones iniciales de Django para crear la base de datos interna necesaria.
+
+6️⃣ Iniciar el servidor de desarrollo
+
+Ejecutar el servidor local de Django.
